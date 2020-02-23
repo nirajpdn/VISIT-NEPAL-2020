@@ -1,0 +1,110 @@
+@media only screen and (max-width:940px){
+    h3{
+        font-size: 15px;
+    }
+    .paragraph{
+        font-size: 15px;
+    }
+    h2{
+        font-size: 23px;
+    }
+    .stars i{
+        font-size: 20px;
+    }
+    blockquote cite{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width:800px){
+    h3{
+        font-size: 12px;
+    }
+    .stars i{
+        font-size: 17px;
+    }
+    .welcome h2{
+        font-size: 20px;
+    }
+    .welcome p{
+        font-size: 18px;
+        text-align: left;
+    }
+    .question-mark {
+        font-size: 16px;
+    }
+    blockquote{
+        font-size: 14px;
+        text-align: justify;
+    }
+    .col-say{
+        width:80%;
+    }
+}
+@media only screen and (max-width:835px){
+    .nav-icon{
+        display: inline-block;
+        margin-right: 20px;
+    }
+    .main-nav{
+        display: none;
+    }
+    .main-nav li{
+        display:block;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited
+    {
+        display: block;
+        border:0;
+        padding: 8px 0;
+    }
+}
+@media only screen and (max-width:629px){
+    h3{
+        font-size: 18px;
+    }
+    .col
+    {
+        width:100%;
+    }
+    .heading h1{
+        font-size: 45px;
+    }
+    .btn{
+        padding:5px 10px;
+        font-size: 20px;
+    }
+    .left,.right{
+        width:80%;
+    }
+    .left{
+        margin-left:9.5%;
+    }
+    .right{
+        margin-right: 9.5%;
+    }
+    .stars i{
+        font-size: 20px;
+    }
+    .btn{
+        padding:10px 30px;
+    }
+    .paragraph{
+        font-size: 17px;
+        margin-left: 2px;
+    }
+    .hero
+    {
+        margin-left: 6%;
+    }
+    .nav-footer
+    {
+        margin-left: 35px;
+    }
+    .question-mark {
+        font-size: 17px;
+    }
+    blockquote cite{
+        font-size: 20px;
+    }
+}
